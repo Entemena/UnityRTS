@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1602c10ba7cd8e641bc9396102329a94
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buildingMenu: {instanceID: 0}
+  - buildingButtonPrefab: {instanceID: 0}
+  - resourcesUIParent: {instanceID: 0}
+  - gameResourceDisplayPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
